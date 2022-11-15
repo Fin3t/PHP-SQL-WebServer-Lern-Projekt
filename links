@@ -1,0 +1,5 @@
+C:\xampp\htdocs\images
+
+https://stackoverflow.com/questions/7793009/how-to-retrieve-images-from-mysql-database-and-display-in-an-html-tag
+
+ <img src="test2.php?id=1" width="175" height="200" />
